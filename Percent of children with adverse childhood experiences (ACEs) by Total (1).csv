@@ -1,16 +1,4 @@
-﻿Indicator,Percent of children with adverse childhood experiences (ACEs) by Total,,,,,
-Source,"SHADAC analysis of the National Survey of Children's Health (NSCH) public-use files. The NSCH is  funded and directed by the Health Resources and Services Administration&rsquo;s Maternal and Child Health Bureau (HRSA MCHB) and fielded by the U.S. Census Bureau.<br />
-<br />
-Suggested Citation:<br />
-SHADAC analysis of [DATA SOURCE], State Health Compare, SHADAC, University of Minnesota, statehealthcompare.shadac.org, Accessed [DATE].",,,,,
-Notes,"<div>Estimates are representative of children age 0&ndash;17 living in households. This measure is based on the 9 ACEs questions asked in the NSCH: (1) hard to cover basics on family's income; (2) parent or guardian divorced or separated; (3) parent or guardian died; (4) parent or guardian served time in jail; (5) saw or heard parents or adults slap, hit, kick, punch one another in the home; (6) was a victim of violence or witnessed violence in neighborhood; (7) lived with anyone who was mentally ill, suicidal, or severely depressed; (8) lived with anyone who had a problem with alcohol or drugs; and (9) treated or judged unfairly due to race/ethnicity.</div>
-<div><br />
-</div>
-<div>The margin of error (MOE) represents the uncertainty of an estimate due to sampling variability; the calculated MOE is 95%. N/A indicates that data were suppressed because the number of sample cases was too small or the estimate had a relative standard error greater than 30%.</div>",,,,,
-Description,"Percent of children with no adverse childhood experiences (ACEs), children with 1 ACE, and children with 2 or more ACEs.",,,,,
-,,,,,,
-,,,,,,
-Fips,Location,Number of ACEs,TimeFrame,Data Type,Data,MOE
+﻿Fips,Location,Number of ACEs,TimeFrame,Data Type,Data,MOE
 1,Alabama,2 or more ACEs,2017-2018,Percent,0.22643,3.89E-02
 2,Alaska,2 or more ACEs,2017-2018,Percent,0.25539,3.96E-02
 4,Arizona,2 or more ACEs,2017-2018,Percent,0.2192,3.71E-02
