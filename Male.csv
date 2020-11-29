@@ -1,55 +1,54 @@
-,,Bad Days,Bad Days,Bad Days,Bad Days,Bad Days,Bad Days,Bad Days,Bad Days
-Sex,Location,count,mean,std,min,25%,50%,75%,max
-Male,Alabama,1,4.6,,4.6,4.6,4.6,4.6,4.6
-Male,Alaska,1,3.3,,3.3,3.3,3.3,3.3,3.3
-Male,Arizona,1,4.1,,4.1,4.1,4.1,4.1,4.1
-Male,Arkansas,1,4.2,,4.2,4.2,4.2,4.2,4.2
-Male,California,1,3.4,,3.4,3.4,3.4,3.4,3.4
-Male,Colorado,1,3.6,,3.6,3.6,3.6,3.6,3.6
-Male,Connecticut,1,3.4,,3.4,3.4,3.4,3.4,3.4
-Male,Delaware,1,3.6,,3.6,3.6,3.6,3.6,3.6
-Male,District of Columbia,1,3.5,,3.5,3.5,3.5,3.5,3.5
-Male,Florida,1,3.7,,3.7,3.7,3.7,3.7,3.7
-Male,Georgia,1,4.3,,4.3,4.3,4.3,4.3,4.3
-Male,Guam,1,3.9,,3.9,3.9,3.9,3.9,3.9
-Male,Hawaii,1,3.4,,3.4,3.4,3.4,3.4,3.4
-Male,Idaho,1,3.7,,3.7,3.7,3.7,3.7,3.7
-Male,Illinois,1,3.5,,3.5,3.5,3.5,3.5,3.5
-Male,Indiana,1,3.6,,3.6,3.6,3.6,3.6,3.6
-Male,Iowa,1,3.2,,3.2,3.2,3.2,3.2,3.2
-Male,Kansas,1,3.6,,3.6,3.6,3.6,3.6,3.6
-Male,Kentucky,1,4.5,,4.5,4.5,4.5,4.5,4.5
-Male,Louisiana,1,4.8,,4.8,4.8,4.8,4.8,4.8
-Male,Maine,1,3.8,,3.8,3.8,3.8,3.8,3.8
-Male,Maryland,1,3.5,,3.5,3.5,3.5,3.5,3.5
-Male,Massachusetts,1,3.5,,3.5,3.5,3.5,3.5,3.5
-Male,Michigan,1,4.1,,4.1,4.1,4.1,4.1,4.1
-Male,Minnesota,1,3.2,,3.2,3.2,3.2,3.2,3.2
-Male,Mississippi,1,4.6,,4.6,4.6,4.6,4.6,4.6
-Male,Missouri,1,3.9,,3.9,3.9,3.9,3.9,3.9
-Male,Montana,1,3.7,,3.7,3.7,3.7,3.7,3.7
-Male,Nebraska,1,2.9,,2.9,2.9,2.9,2.9,2.9
-Male,Nevada,1,3.7,,3.7,3.7,3.7,3.7,3.7
-Male,New Hampshire,1,3.7,,3.7,3.7,3.7,3.7,3.7
-Male,New Mexico,1,3.8,,3.8,3.8,3.8,3.8,3.8
-Male,New York,1,3.4,,3.4,3.4,3.4,3.4,3.4
-Male,North Carolina,1,3.6,,3.6,3.6,3.6,3.6,3.6
-Male,North Dakota,1,2.8,,2.8,2.8,2.8,2.8,2.8
-Male,Ohio,1,4.3,,4.3,4.3,4.3,4.3,4.3
-Male,Oklahoma,1,3.9,,3.9,3.9,3.9,3.9,3.9
-Male,Oregon,1,3.6,,3.6,3.6,3.6,3.6,3.6
-Male,Pennsylvania,1,3.5,,3.5,3.5,3.5,3.5,3.5
-Male,Puerto Rico,1,3.3,,3.3,3.3,3.3,3.3,3.3
-Male,Rhode Island,1,3.9,,3.9,3.9,3.9,3.9,3.9
-Male,South Carolina,1,3.3,,3.3,3.3,3.3,3.3,3.3
-Male,South Dakota,1,2.9,,2.9,2.9,2.9,2.9,2.9
-Male,Tennessee,1,3.9,,3.9,3.9,3.9,3.9,3.9
-Male,Texas,1,3.4,,3.4,3.4,3.4,3.4,3.4
-Male,United States,1,3.7,,3.7,3.7,3.7,3.7,3.7
-Male,Utah,1,3.6,,3.6,3.6,3.6,3.6,3.6
-Male,Vermont,1,4,,4,4,4,4,4
-Male,Virginia,1,3.4,,3.4,3.4,3.4,3.4,3.4
-Male,Washington,1,3.6,,3.6,3.6,3.6,3.6,3.6
-Male,West Virginia,1,5.5,,5.5,5.5,5.5,5.5,5.5
-Male,Wisconsin,1,3.8,,3.8,3.8,3.8,3.8,3.8
-Male,Wyoming,1,3.3,,3.3,3.3,3.3,3.3,3.3
+Sex,Location,Bad Days Count,Bad Days Mean,Bad Days Min,Bad Days Q1,Bad Days Q2,Bad Days Q3,Bad Days Max
+Male,Alabama,1,4.6,4.6,4.6,4.6,4.6,4.6
+Male,Alaska,1,3.3,3.3,3.3,3.3,3.3,3.3
+Male,Arizona,1,4.1,4.1,4.1,4.1,4.1,4.1
+Male,Arkansas,1,4.2,4.2,4.2,4.2,4.2,4.2
+Male,California,1,3.4,3.4,3.4,3.4,3.4,3.4
+Male,Colorado,1,3.6,3.6,3.6,3.6,3.6,3.6
+Male,Connecticut,1,3.4,3.4,3.4,3.4,3.4,3.4
+Male,Delaware,1,3.6,3.6,3.6,3.6,3.6,3.6
+Male,District of Columbia,1,3.5,3.5,3.5,3.5,3.5,3.5
+Male,Florida,1,3.7,3.7,3.7,3.7,3.7,3.7
+Male,Georgia,1,4.3,4.3,4.3,4.3,4.3,4.3
+Male,Guam,1,3.9,3.9,3.9,3.9,3.9,3.9
+Male,Hawaii,1,3.4,3.4,3.4,3.4,3.4,3.4
+Male,Idaho,1,3.7,3.7,3.7,3.7,3.7,3.7
+Male,Illinois,1,3.5,3.5,3.5,3.5,3.5,3.5
+Male,Indiana,1,3.6,3.6,3.6,3.6,3.6,3.6
+Male,Iowa,1,3.2,3.2,3.2,3.2,3.2,3.2
+Male,Kansas,1,3.6,3.6,3.6,3.6,3.6,3.6
+Male,Kentucky,1,4.5,4.5,4.5,4.5,4.5,4.5
+Male,Louisiana,1,4.8,4.8,4.8,4.8,4.8,4.8
+Male,Maine,1,3.8,3.8,3.8,3.8,3.8,3.8
+Male,Maryland,1,3.5,3.5,3.5,3.5,3.5,3.5
+Male,Massachusetts,1,3.5,3.5,3.5,3.5,3.5,3.5
+Male,Michigan,1,4.1,4.1,4.1,4.1,4.1,4.1
+Male,Minnesota,1,3.2,3.2,3.2,3.2,3.2,3.2
+Male,Mississippi,1,4.6,4.6,4.6,4.6,4.6,4.6
+Male,Missouri,1,3.9,3.9,3.9,3.9,3.9,3.9
+Male,Montana,1,3.7,3.7,3.7,3.7,3.7,3.7
+Male,Nebraska,1,2.9,2.9,2.9,2.9,2.9,2.9
+Male,Nevada,1,3.7,3.7,3.7,3.7,3.7,3.7
+Male,New Hampshire,1,3.7,3.7,3.7,3.7,3.7,3.7
+Male,New Mexico,1,3.8,3.8,3.8,3.8,3.8,3.8
+Male,New York,1,3.4,3.4,3.4,3.4,3.4,3.4
+Male,North Carolina,1,3.6,3.6,3.6,3.6,3.6,3.6
+Male,North Dakota,1,2.8,2.8,2.8,2.8,2.8,2.8
+Male,Ohio,1,4.3,4.3,4.3,4.3,4.3,4.3
+Male,Oklahoma,1,3.9,3.9,3.9,3.9,3.9,3.9
+Male,Oregon,1,3.6,3.6,3.6,3.6,3.6,3.6
+Male,Pennsylvania,1,3.5,3.5,3.5,3.5,3.5,3.5
+Male,Puerto Rico,1,3.3,3.3,3.3,3.3,3.3,3.3
+Male,Rhode Island,1,3.9,3.9,3.9,3.9,3.9,3.9
+Male,South Carolina,1,3.3,3.3,3.3,3.3,3.3,3.3
+Male,South Dakota,1,2.9,2.9,2.9,2.9,2.9,2.9
+Male,Tennessee,1,3.9,3.9,3.9,3.9,3.9,3.9
+Male,Texas,1,3.4,3.4,3.4,3.4,3.4,3.4
+Male,United States,1,3.7,3.7,3.7,3.7,3.7,3.7
+Male,Utah,1,3.6,3.6,3.6,3.6,3.6,3.6
+Male,Vermont,1,4,4,4,4,4,4
+Male,Virginia,1,3.4,3.4,3.4,3.4,3.4,3.4
+Male,Washington,1,3.6,3.6,3.6,3.6,3.6,3.6
+Male,West Virginia,1,5.5,5.5,5.5,5.5,5.5,5.5
+Male,Wisconsin,1,3.8,3.8,3.8,3.8,3.8,3.8
+Male,Wyoming,1,3.3,3.3,3.3,3.3,3.3,3.3
