@@ -1,0 +1,22 @@
+﻿For this project, our group extracted and transformed data from the Mental Health in Tech Survey by Open Sourcing Mental Illness, LTD, and the Unemployment and Mental Illness Survey from the National Alliance on Mental Illness. Once joined and cleaned, we loaded our final datafile into a MongoDB database. 
+
+
+The original datasets can be found on Kaggle here and here and were in CSV format. 
+
+
+The process to transform the datasets included:
+* Reading in our MentalHealthCSV.csv and two datasets from OSMI for both males and females, Male.csv and Female.csv. 
+* Renaming and Extracting Needed Columns 
+* Cleaning and normalizing Sex values, which included 42 unique entries 
+* Dropping individuals that did not identify as Male or Female 
+* Splitting Dataframe by Sex to Join on “Location” column; Joining on “Location”
+* Merging final cleaned datasets into one Master_Sheet dataframe and writing to CSV 
+
+
+The process to load the dataset included: 
+* In Jupyter notebook, importing PyMongo
+* Transforming Master_Sheet dataset from a Pandas Dataframe into a Dictionary
+* Loading Master_Sheet dictionary into a Master_Table in MongoDB database
+
+
+We chose the non-relational MongoDB database for its flexibility and integration within existing frameworks like Pandas, allowing a cleaner and more streamlined pipeline for extracting and transforming the data. Additionally, our group was interested in gaining more hands on experience with the many powerful applications of MongoDB.
